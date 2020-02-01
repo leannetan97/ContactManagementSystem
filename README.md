@@ -6,7 +6,7 @@ We are required to improve the Contact Management System (CMS) and apply as many
 
 Acknowledgment: The initial implementation of the CMS is from https://github.com/ritz301/Contact-Management-System
 
-We have applied 6 design pattern to improve the CMS, the design pattern are as follows:
+We have applied 6 design patterns to improve the CMS, the design patterns are as follows:
 1. Strategy Design Pattern
 2. Simple Factory Design Pattern
 3. State Design Pattern
